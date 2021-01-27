@@ -1,0 +1,20 @@
+body{
+    padding: 100px;
+}
+.input_area{
+    margin: 50px;
+    padding: 30px;
+    
+}
+#transaction_page{
+    display: none;
+}
+.accountBox{
+    margin: 5px 15px;
+    color:white;
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+.ammountInsert{
+    border-radius: 15px;
+}
